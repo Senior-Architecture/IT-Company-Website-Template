@@ -1,8 +1,8 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "Senior Architecture/itcompany",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "Senior Architecture\\Itcompany\\": "src/"
         }
     },
     "authors": [
